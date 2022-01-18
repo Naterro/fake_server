@@ -1,6 +1,7 @@
 {
   "devices": [
   {
+    "id": 0,
     "name": "Indesit Super No Frost S9000",
     "brand": "Indesit",
     "category": "freezer",
@@ -9,6 +10,7 @@
     "desc": "Super duper"
   },
   {
+    "id": 1,
     "name": "LG Ultra Super Puper 4K",
     "brand": "LG",
     "category": "TV",
@@ -17,6 +19,7 @@
     "desc": "Super Puper 4K"
   },
   {
+    "id": 2,
     "name": "Moulinex ExtraMegaSpeed",
     "brand": "Moulinex",
     "category": "grinder",
