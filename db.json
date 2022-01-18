@@ -1,4 +1,5 @@
-[
+{
+  "devices": [
   {
     "name": "Indesit Super No Frost S9000",
     "brand": "Indesit",
@@ -24,3 +25,4 @@
     "desc": "ExtraMegaSpeed"
   }
 ]
+}
