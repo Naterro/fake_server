@@ -1,1 +1,26 @@
-[{"name":"Indesit Super No Frost S9000","brand":"Indesit","category":"freezer","price":19900,"date_receipt":"2022-01-16","desc":"Super duper"},{"name":"LG Ultra Super Puper 4K","brand":"LG","category":"TV","price":39900,"date_receipt":"2022-01-17","desc":"Super Puper 4K"},{"name":"Moulinex ExtraMegaSpeed","brand":"Moulinex","category":"grinder","price":9900,"date_receipt":"2022-01-15","desc":"ExtraMegaSpeed"}]
+[
+  {
+    "name": "Indesit Super No Frost S9000",
+    "brand": "Indesit",
+    "category": "freezer",
+    "price": 19900,
+    "date_receipt": "2022.01.16",
+    "desc": "Super duper"
+  },
+  {
+    "name": "LG Ultra Super Puper 4K",
+    "brand": "LG",
+    "category": "TV",
+    "price": 39900,
+    "date_receipt": "2022.01.17",
+    "desc": "Super Puper 4K"
+  },
+  {
+    "name": "Moulinex ExtraMegaSpeed",
+    "brand": "Moulinex",
+    "category": "grinder",
+    "price": 9900,
+    "date_receipt": "2022.01.15",
+    "desc": "ExtraMegaSpeed"
+  }
+]
